@@ -1,3 +1,3 @@
-# XChart
+# NovaChart
 
 Comming soon
