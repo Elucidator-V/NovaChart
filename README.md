@@ -29,36 +29,36 @@ Resolution: 1024 x 576; Frames: 64.</p> -->
 Resolution: 1024 x 576; Frames: 64.</p> -->
 </div>
  
-## Data Overview
+## 📚Data Overview
 We create a large-scale chart dataset for chart understanding and generation of MLLMs, with extensive coverage of chart types, various chart-related tasks, and good scalability. We propose a fully-fledged data generation engine including Raw Data Acquisition, Data Curation, Image Styling and Visualization, and Instruction Formulation, supporting the construction of large-scale chart metadata and chart instruction data from scratch. We also release several tools which can be employed for NovaChart extension, to help the development of customized MLLMs with specific chart understanding and generation capabilities.
 <br>
 <p align="center">
-    <img src="./static/distribution.jpg" width="400"/>
+    <img src="./static/distribution.jpg" width="800"/>
 <p>
 <br>
 
 
-### Data Engine
+### ⚙️Data Engine
 The framework of the data generation engine of NovaChart is illustrated in The following figure. It mainly comprises 4 steps. Detailed introduction can be found in our paper.
 <br>
 <p align="center">
-    <img src="./static/engine.png" width="400"/>
+    <img src="./static/engine.png" />
 <p>
 <br>
 
 
-### Chart Metadata
+### 📋Chart Metadata
 For every instance of chart, we provide 4 kinds of annotations: 1) data points which are statistical units of information represented by numerical values on the chart’s axes; 2) visual elements used in charts to convey information and enhance expressiveness, such as colors; 3) source data, the raw, unprocessed data samples from which the statistical chart is derived; 4) visualization code for chart images rendering with given data points and visual elements.
 
 
 <br>
 <p align="center">
-    <img src="./static/metadata.png" width="400"/>
+    <img src="./static/metadata.png" width="600"/>
 <p>
 <br>
 
 
-### Chart Instruction Data
+### 🧑‍🦽Chart Instruction Data
 We design a comprehensive set of 15 unique tasks, covering 4 kinds of tasks: 
 
 1) Chart Data Understanding, which aims to precisely understand the statistical data points within charts; 
@@ -72,7 +72,7 @@ which focuses on identifying particular visual elements in charts.
 
 
 
-### NovaChart Toolkit
+### 🛠NovaChart Toolkit
 
 In addition to the data resources, we provide three tools for fellow researchers to facilitate utilization and
 extension of NovaChart. 
@@ -87,14 +87,14 @@ Instruction generation tool helps researchers leverage LLMs to create chart inst
 We aim to enable researchers to conveniently utilize NovaChart and assist them in generating high-quality chart data for their customized model training through these tools. We sincerely hope that our efforts can pave the way for the intelligent assistant with powerful capabilities in chart comprehension and generation.
 
 
-### Model abilities
+### 🤖Model Capabilities
 <br>
 <p align="center">
-    <img src="./static/case_study.png" width="400"/>
+    <img src="./static/case_study.png" />
 <p>
 <br>
 
-### Using NovaChart
+### 👊Using NovaChart
 
 The full NovaChart dataset can be downloaded from the following link:
 
@@ -109,7 +109,7 @@ The full NovaChart dataset can be downloaded from the following link:
 
 
 
-## 📖 TO-DO LIST
+## 🤓TO-DOs
 - [ ] Open source the evaluation scripts.
 - [ ] Open source checkpoints.
 - [x] Open source the dataset.
@@ -118,7 +118,7 @@ The full NovaChart dataset can be downloaded from the following link:
 
 
 
-## 😉 Citation
+## 💡Citation
 ```bib
 @inproceedings{hu2024novachart,
   title={NovaChart: A Large-scale Dataset towards Chart Understanding and Generation of Multimodal Large Language Models},
