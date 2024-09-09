@@ -20,7 +20,7 @@
 
 
 
-<img src=./static/head.pdf>
+<img src=./static/head.png>
 <!-- <p>Input: "A chihuahua in astronaut suit floating in space, cinematic lighting, glow effect"; 
 <br>
 Resolution: 1024 x 576; Frames: 64.</p> -->
@@ -43,7 +43,7 @@ We create a large-scale chart dataset for chart understanding and generation of 
 The framework of the data generation engine of NovaChart is illustrated in The following figure. It mainly comprises 4 steps. Detailed introduction can be found in our paper.
 <br>
 <p align="center">
-    <img src="./static/engine.pdf" width="400"/>
+    <img src="./static/engine.png" width="400"/>
 <p>
 <br>
 
@@ -54,7 +54,7 @@ For every instance of chart, we provide 4 kinds of annotations: 1) data points w
 
 <br>
 <p align="center">
-    <img src="./static/metadata.pdf" width="400"/>
+    <img src="./static/metadata.png" width="400"/>
 <p>
 <br>
 
@@ -91,7 +91,7 @@ We aim to enable researchers to conveniently utilize NovaChart and assist them i
 ### Model abilities
 <br>
 <p align="center">
-    <img src="./static/case_study.pdf" width="400"/>
+    <img src="./static/case_study.png" width="400"/>
 <p>
 <br>
 
