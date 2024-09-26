@@ -98,6 +98,9 @@ We aim to enable researchers to conveniently utilize NovaChart and assist them i
 
 The full NovaChart dataset can be downloaded from the following link:
 
+Chart Instruction Data: [Huggingface](https://huggingface.co/datasets/ympan/novachart)
+
+
 
 <!-- The dataset has the following structure: -->
 
