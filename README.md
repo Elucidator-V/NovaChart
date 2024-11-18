@@ -10,7 +10,9 @@
 </p> -->
 
  <a href='https://github.com/Elucidator-V/NovaChart/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href='https://github.com/buaacyw/GaussianEditor/blob/master/LICENSE.txt'><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://dl.acm.org/doi/10.1145/3664647.3680790'><img src='https://img.shields.io/badge/Paper-Link-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://github.com/Elucidator-V/NovaChart/blob/main/paper/ACM_MM_NovaChart_appendix.pdf'><img src='https://img.shields.io/badge/Appendix-Link-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://huggingface.co/datasets/ympan/novachart'><img src='https://img.shields.io/badge/🤗HugginngFace-Data-orange'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br><br>
 <!--  [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/listen2you002/ChartLlama-13b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/listen2you002/ChartLlama-Dataset)
