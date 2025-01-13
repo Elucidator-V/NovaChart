@@ -75,6 +75,7 @@ which focuses on identifying particular visual elements in charts.
 
 
 ### 🛠NovaChart Toolkit
+[Toolkit](https://github.com/Elucidator-V/NovaChart/tree/main/tools)
 
 In addition to the data resources, we provide three tools for fellow researchers to facilitate utilization and
 extension of NovaChart. 
